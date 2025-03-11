@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MegaActionPlatformer.cpp.obj": [
+			"MegaActionPlatformer.cpp.obj"
+		]
+	}
+}

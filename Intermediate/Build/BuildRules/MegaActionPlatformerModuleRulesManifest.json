@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\LENOVO\\OneDrive\\Documents\\Unreal Projects\\MegaActionPlatformer\\Plugins\\RootMovement-5.3\\Source\\RootMovement\\RootMovement.Build.cs",
+		"C:\\Users\\LENOVO\\OneDrive\\Documents\\Unreal Projects\\MegaActionPlatformer\\Intermediate\\Source\\MegaActionPlatformer.Build.cs",
+		"C:\\Users\\LENOVO\\OneDrive\\Documents\\Unreal Projects\\MegaActionPlatformer\\Intermediate\\Source\\MegaActionPlatformer.Target.cs",
+		"C:\\Users\\LENOVO\\OneDrive\\Documents\\Unreal Projects\\MegaActionPlatformer\\Intermediate\\Source\\MegaActionPlatformerClient.Target.cs",
+		"C:\\Users\\LENOVO\\OneDrive\\Documents\\Unreal Projects\\MegaActionPlatformer\\Intermediate\\Source\\MegaActionPlatformerEditor.Target.cs",
+		"C:\\Users\\LENOVO\\OneDrive\\Documents\\Unreal Projects\\MegaActionPlatformer\\Intermediate\\Source\\MegaActionPlatformerServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
